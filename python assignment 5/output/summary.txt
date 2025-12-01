@@ -1,0 +1,6 @@
+
+EXECUTIVE SUMMARY
+-----------------
+Total Consumption: 2544.80
+Highest Consumer: cleaned (1272.40)
+Peak Load: 65.00
